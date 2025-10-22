@@ -20,7 +20,6 @@ import com.example.courses.model.Topic
 
 object DataSource {
     val topics = listOf(
-        Topic(R.string.architecture, 58, R.drawable.architecture),
         Topic(R.string.crafts, 121, R.drawable.crafts),
         Topic(R.string.business, 78, R.drawable.business),
         Topic(R.string.culinary, 118, R.drawable.culinary),
@@ -33,6 +32,8 @@ object DataSource {
         Topic(R.string.music, 212, R.drawable.music),
         Topic(R.string.painting, 172, R.drawable.painting),
         Topic(R.string.photography, 321, R.drawable.photography),
-        Topic(R.string.tech, 118, R.drawable.tech)
+        Topic(R.string.tech, 118, R.drawable.tech),
+        Topic(R.string.architecture, 58, R.drawable.architecture)
+
     )
 }
