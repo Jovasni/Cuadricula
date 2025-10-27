@@ -30,6 +30,7 @@
     <string name="gaming">Gaming</string>
     <string name="geology">Geology</string>
     <string name="drawing">Drawing</string>
+    <string name="tech">Tech</string>
     <string name="history">History</string>
     <string name="journalism">Journalism</string>
     <string name="law">Law</string>
@@ -38,5 +39,4 @@
     <string name="painting">Painting</string>
     <string name="photography">Photography</string>
     <string name="physics">physics</string>
-    <string name="tech">Tech</string>
 </resources>

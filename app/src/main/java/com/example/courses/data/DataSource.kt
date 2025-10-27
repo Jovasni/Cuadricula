@@ -36,6 +36,7 @@ object DataSource {
         Topic(R.string.geology, 290, R.drawable.geology),
         Topic(R.string.drawing, 326, R.drawable.drawing),
         Topic(R.string.history, 189, R.drawable.history),
+        Topic(R.string.tech, 118, R.drawable.tech),
         Topic(R.string.journalism, 96, R.drawable.journalism),
         Topic(R.string.law, 58, R.drawable.law),
         Topic(R.string.lifestyle, 305, R.drawable.lifestyle),
@@ -43,6 +44,5 @@ object DataSource {
         Topic(R.string.painting, 172, R.drawable.painting),
         Topic(R.string.photography, 321, R.drawable.photography),
         Topic(R.string.physics, 41, R.drawable.physics),
-        Topic(R.string.tech, 118, R.drawable.tech),
     )
 }
